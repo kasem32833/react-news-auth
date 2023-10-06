@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 # add moments js for show time
 # add react marque for sliding latest news
-#
+# Use react icnons for icon
